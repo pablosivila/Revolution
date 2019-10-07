@@ -1,0 +1,19 @@
+civiliation_name,army_type,unique_unit,unique_tech,team_bonus
+Aztecs,Infantry and Monk,jaguar_warrior,garland_wars,Relics generate +33% gold
+Britons,Foot Archer,longbowman,yeomen,Archery Ranges work 20% faster
+Bizantines,Defensive,cataphract,logistica,Monks +50% heal speed
+Celts,Infantry,woad_raider,furor_celtica,Siege Workshops work 20% faster
+Chinese,Archer,chu_ko_nu,rocketry,Famrs provide +45 food
+Franks,Cavalry,throwing_axeman,bearded_axe,Knights have +2 line of sight
+Goths,Infantry,huskarl,anarchy,Barracks operate 20% faster
+Huns,Cavalry,tarkan,atheism,Stables are 20% faster
+Japanese,Infantry,samurai,kataparuto,Galleys have +50% line of sight
+Koreans,Tower and naval,war_wagon,shinkichon,Mangonel line has +1 range
+Mayans,Archer,plumed_archer,el_dorado,Walls are 50% cheaper
+Mongols,Cavalry Archer,mangudai,drill,Scout line has +2 Line of sight
+Persians,Cavalry,war_elephant,mahouts,Knights have +2 attack versus Archers
+Saracens,Camel and naval,mameluke,zealotry,Foot archers have +2 attack bonus against buildings
+Spanish,Gunpowder and Monk,conquistador,supremacy,Trade units generate +33% Gold
+Teutons,Infantry,teutonic_knight,crenellations,Units are more resistant to conversion
+Turks,Gunpowder,janissary,artillery,Gunpowder units are created 20% faster
+Vikings,Infantry and naval,berserk,berserkergang,Docks are 25% cheaper

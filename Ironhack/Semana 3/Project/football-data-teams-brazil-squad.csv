@@ -1,0 +1,804 @@
+team_id,player_id,player_name,player_position,player_country
+1765,1067,Rodolfo,Goalkeeper,Brazil
+1765,1397,Agenor,Goalkeeper,Brazil
+1765,11177,Marcos Felipe,Goalkeeper,Brazil
+1765,45294,Muriel,Goalkeeper,Brazil
+1765,1071,Frazan,Defender,Brazil
+1765,1073,Gilberto,Defender,Brazil
+1765,1238,Digão,Defender,Brazil
+1765,1437,Léo Santos,Defender,Brazil
+1765,1643,Matheus Ferraz,Defender,Brazil
+1765,12650,Orinho,Defender,Brazil
+1765,12806,Mascarenhas,Defender,Brazil
+1765,12872,Nino,Defender,Brazil
+1765,30308,Luccas Claro,Defender,Brazil
+1765,73227,César Nunes,Defender,Brazil
+1765,83846,Igor Julião,Defender,Brazil
+1765,119622,Lucas,Defender,Brazil
+1765,76,Ganso,Midfielder,Brazil
+1765,1082,Caio,Midfielder,Brazil
+1765,1084,Pablo Dyego,Midfielder,Brazil
+1765,1085,Airton,Midfielder,Brazil
+1765,1087,Dodi,Midfielder,Brazil
+1765,1315,Yuri,Midfielder,Brazil
+1765,1356,Nenê,Midfielder,Brazil
+1765,1612,Caio Henrique,Midfielder,Brazil
+1765,11011,Ewandro,Midfielder,Brazil
+1765,12953,Daniel,Midfielder,Brazil
+1765,22394,Yony González,Midfielder,Colombia
+1765,56574,Allan,Midfielder,Brazil
+1765,73778,Zé Ricardo,Midfielder,Brazil
+1765,121960,Lucas Felipe Calegari,Midfielder,Brazil
+1765,1360,Brenner,Attacker,Brazil
+1765,1688,Guilherme,Attacker,Brazil
+1765,13457,Lucão,Attacker,Brazil
+1765,16489,Wellington Nem,Attacker,Brazil
+1765,18920,Patrick Carvalho,Attacker,Brazil
+1765,98578,Marcos Paulo,Attacker,Brazil
+1765,103125,João Pedro,Attacker,Brazil
+1765,118755,Miguel Silveira,Attacker,Brazil
+1765,131260,Evanilson,Attacker,Brazil
+1765,127655,Marcão,None,Brazil
+1766,1095,Victor,Goalkeeper,Brazil
+1766,1097,Uilson,Goalkeeper,Brazil
+1766,1098,Cleiton,Goalkeeper,Brazil
+1766,1099,Michael,Goalkeeper,Brazil
+1766,13883,Wilson,Goalkeeper,Brazil
+1766,72447,Fernando,Goalkeeper,Brazil
+1766,1101,Léo Silva,Defender,Brazil
+1766,1102,Patric,Defender,Brazil
+1766,1103,Fábio Santos,Defender,Brazil
+1766,1108,Maidana,Defender,Brazil
+1766,1215,Igor Rabello,Defender,Brazil
+1766,1534,Réver,Defender,Brazil
+1766,12594,Guga,Defender,Brazil
+1766,28576,Lucas Hernández,Defender,Uruguay
+1766,61287,Carlos César,Defender,Brazil
+1766,72763,Hulk,Defender,Brazil
+1766,103126,Matheus Stockl,Defender,Brazil
+1766,113806,Renan Guedes,Defender,Brazil
+1766,1112,Juan Cazares,Midfielder,Ecuador
+1766,1113,Rómulo Otero,Midfielder,Venezuela
+1766,1114,Elias,Midfielder,Brazil
+1766,1115,Adilson,Midfielder,Brazil
+1766,1118,Gustavo Blanco,Midfielder,Brazil
+1766,1121,Bruno Roberto,Midfielder,Brazil
+1766,1381,Vinicius Goes,Midfielder,Brazil
+1766,1505,Zé Welison,Midfielder,Brazil
+1766,1549,Geuvânio,Midfielder,Brazil
+1766,1587,Gabriel Oliveira,Midfielder,Brazil
+1766,13192,Jair,Midfielder,Brazil
+1766,45314,Nathan,Midfielder,Brazil
+1766,99340,Neto,Midfielder,Brazil
+1766,103127,Daniel Penha,Midfielder,Brazil
+1766,110791,Ramón Martínez,Midfielder,Paraguay
+1766,121916,Vitor Mendes,Midfielder,Brazil
+1766,1123,Luan,Attacker,Brazil
+1766,1126,Ricardo Oliveira,Attacker,Brazil
+1766,1129,Alerrandro,Attacker,Brazil
+1766,1292,Bruno Silva,Attacker,Brazil
+1766,2106,Leandrinho,Attacker,Brazil
+1766,3741,Yimmi Chará,Attacker,Colombia
+1766,6508,Franco Di Santo,Attacker,Argentina
+1766,28561,David Terans,Attacker,Uruguay
+1766,30410,Maicon,Attacker,Brazil
+1766,110874,Alessandro Vinícius,Attacker,Brazil
+1766,20300,Rodrigo Santana,None,Brazil
+1766,129455,Talison,None,Brazil
+1767,1066,Júlio César,Goalkeeper,Brazil
+1767,1134,Paulo Victor,Goalkeeper,Brazil
+1767,97368,Phelipe Megiolaro,Goalkeeper,Brazil
+1767,97506,Brenno,Goalkeeper,Brazil
+1767,1135,Geromel,Defender,Brazil
+1767,1136,Marcelo Oliveira,Defender,Brazil
+1767,1138,Walter Kannemann,Defender,Argentina
+1767,1140,Bruno Cortez,Defender,Brazil
+1767,1141,Léo Moura,Defender,Brazil
+1767,1143,Paulo Miranda,Defender,Brazil
+1767,1300,David Braz,Defender,Brazil
+1767,1439,Juninho Capixaba,Defender,Brazil
+1767,1473,Rafael Galhardo,Defender,Brazil
+1767,18203,Jhonata,Defender,Brazil
+1767,18206,Rodrigues,Defender,Brazil
+1767,118008,Gabriel,Defender,Brazil
+1767,131258,Ruan,Defender,Brazil
+1767,1147,Maicon,Midfielder,Brazil
+1767,1149,Michel,Midfielder,Brazil
+1767,1150,Leonardo Gomes,Midfielder,Brazil
+1767,1153,Matheus Henrique,Midfielder,Brazil
+1767,1154,Alisson,Midfielder,Brazil
+1767,1156,Thaciano,Midfielder,Brazil
+1767,1545,Rômulo,Midfielder,Brazil
+1767,75716,Jean Pyerre,Midfielder,Brazil
+1767,81657,Patrick,Midfielder,Brazil
+1767,98308,Isaque,Midfielder,Brazil
+1767,103499,Ferreira,Midfielder,Brazil
+1767,115128,Darlan Mendes,Midfielder,Brazil
+1767,1145,Luan,Attacker,Brazil
+1767,1159,Éverton,Attacker,Brazil
+1767,1165,André,Attacker,Brazil
+1767,1166,Pepê,Attacker,Brazil
+1767,1554,Felipe Vizeu,Attacker,Brazil
+1767,21871,Diego Tardelli,Attacker,Brazil
+1767,42901,Luciano,Attacker,Brazil
+1767,105484,Guilherme,Attacker,Brazil
+1767,115129,Vico,Attacker,Brazil
+1767,121847,Da Silva,Attacker,Brazil
+1767,131259,Jhonata Robert,Attacker,Brazil
+1767,11124,Renato Gaúcho,None,Brazil
+1767,115183,Victor Hugo,None,Brazil
+1768,1662,Santos,Goalkeeper,Brazil
+1768,1663,Caio,Goalkeeper,Brazil
+1768,1664,Léo Vieira,Goalkeeper,Brazil
+1768,1142,Madson,Defender,Brazil
+1768,1306,Robson,Defender,Brazil
+1768,1435,Pedro Henrique,Defender,Brazil
+1768,1667,Thiago Heleno,Defender,Brazil
+1768,1668,Paulo André,Defender,Brazil
+1768,1672,Jonathan,Defender,Brazil
+1768,11192,Léo Pereira,Defender,Brazil
+1768,13905,Abner,Defender,Brazil
+1768,15939,Adriano Correia,Defender,Brazil
+1768,18398,José Walber,Defender,Brazil
+1768,29194,Márcio Azevedo,Defender,Brazil
+1768,113931,Lucas Halter,Defender,Brazil
+1768,115559,Khellven,Defender,Brazil
+1768,118800,Gabriel Fornari,Defender,Brazil
+1768,1130,Tomás Andrade,Midfielder,Argentina
+1768,1311,Léo Cittadini,Midfielder,Brazil
+1768,1413,Everton Felipe,Midfielder,Brazil
+1768,1482,Wellington,Midfielder,Brazil
+1768,1677,Nikão,Midfielder,Brazil
+1768,1680,Matheus Rossetto,Midfielder,Brazil
+1768,1681,Lucho González,Midfielder,Argentina
+1768,1684,Bruno Guimarães,Midfielder,Brazil
+1768,1687,Camacho,Midfielder,Brazil
+1768,12767,Bruno Nazário,Midfielder,Brazil
+1768,18478,Erick,Midfielder,Brazil
+1768,103142,Abner,Midfielder,Brazil
+1768,110926,Vitor Naum,Midfielder,Brazil
+1768,118802,Geovane,Midfielder,Brazil
+1768,124810,Kawan,Midfielder,Brazil
+1768,1163,Thonny Anderson,Attacker,Brazil
+1768,1226,Rony,Attacker,Brazil
+1768,1361,Bissoli,Attacker,Brazil
+1768,12955,Pedrinho,Attacker,Brazil
+1768,46027,Marco Rubén,Attacker,Argentina
+1768,46548,Braian Romero,Attacker,Argentina
+1768,72785,Marcelo,Attacker,Brazil
+1768,113521,Jáderson,Attacker,Brazil
+1768,72788,Tiago Nunes,None,Brazil
+1768,118803,Gabriel Mesquita,None,Brazil
+1768,122365,Vinicius Mingotti,None,Brazil
+1769,1167,Fernando Prass,Goalkeeper,Brazil
+1769,1168,Jaílson,Goalkeeper,Brazil
+1769,1170,Weverton,Goalkeeper,Brazil
+1769,1171,Edú Dracena,Defender,Brazil
+1769,1173,Antônio Carlos,Defender,Brazil
+1769,1174,Mayke,Defender,Brazil
+1769,1176,Luan,Defender,Brazil
+1769,1177,Diogo Barbosa,Defender,Brazil
+1769,1178,Marcos Rocha,Defender,Brazil
+1769,1181,Victor Luis,Defender,Brazil
+1769,1741,Gustavo Gómez,Defender,Paraguay
+1769,1773,Vitor Hugo,Defender,Brazil
+1769,113808,Lucas Esteves,Defender,Brazil
+1769,1182,Dudu,Midfielder,Brazil
+1769,1184,Thiago Santos,Midfielder,Brazil
+1769,1187,Felipe Melo,Midfielder,Brazil
+1769,1188,Hyoran,Midfielder,Brazil
+1769,1189,Bruno Henrique,Midfielder,Brazil
+1769,1191,Lucas Lima,Midfielder,Brazil
+1769,1214,Matheus Fernandes,Midfielder,Brazil
+1769,1380,Zé Rafael,Midfielder,Brazil
+1769,1686,Raphael Veiga,Midfielder,Brazil
+1769,11196,Jean,Midfielder,Brazil
+1769,13421,Carlos Eduardo,Midfielder,Brazil
+1769,21833,Ramires,Midfielder,Brazil
+1769,22598,Iván Angulo,Midfielder,Colombia
+1769,72781,Gustavo Scarpa,Midfielder,Brazil
+1769,117982,Lucas Bergantin,Midfielder,Brazil
+1769,1194,Willian,Attacker,Brazil
+1769,1195,Miguel Borja,Attacker,Colombia
+1769,1196,Deyverson,Attacker,Brazil
+1769,1559,Henrique Dourado,Attacker,Brazil
+1769,16152,Luiz Adriano,Attacker,Brazil
+1769,21411,Ricardo Goulart,Attacker,Brazil
+1769,11123,Mano Menezes,None,Brazil
+1769,75136,Wesley Carvalho,None,Brazil
+1770,1198,Saulo,Goalkeeper,Brazil
+1770,1199,Gatito Fernández,Goalkeeper,Paraguay
+1770,8139,Diego Cavalieri,Goalkeeper,Brazil
+1770,81896,Andrew,Goalkeeper,Brazil
+1770,110875,Lucas Alves,Goalkeeper,Brazil
+1770,1100,Gabriel,Defender,Brazil
+1770,1201,Joel Carli,Defender,Argentina
+1770,1202,Marcinho,Defender,Brazil
+1770,1203,Marcelo Conceição,Defender,Brazil
+1770,1204,Gilson,Defender,Brazil
+1770,1205,Kanu,Defender,Brazil
+1770,1209,Jean Irmer,Defender,Brazil
+1770,110876,Lucas Barros,Defender,Brazil
+1770,115073,Fernando,Defender,Brazil
+1770,1152,Cícero,Midfielder,Brazil
+1770,1213,Gustavo Bochecha,Midfielder,Brazil
+1770,1216,João Paulo,Midfielder,Brazil
+1770,1217,Marcos Vinícius,Midfielder,Brazil
+1770,1218,Leonardo Valencia,Midfielder,Chile
+1770,1220,Luiz Fernando,Midfielder,Brazil
+1770,1221,Yuri,Midfielder,Brazil
+1770,1354,Diego Souza,Midfielder,Brazil
+1770,1609,Alex Santana,Midfielder,Brazil
+1770,12814,Vinicius Tanque,Midfielder,Brazil
+1770,39073,Alan Santos,Midfielder,Brazil
+1770,83094,Rickson,Midfielder,Brazil
+1770,97246,Wenderson,Midfielder,Brazil
+1770,1223,Rodrigo Pimpão,Attacker,Brazil
+1770,1224,Lucas Campos,Attacker,Brazil
+1770,1227,Pachu,Attacker,Brazil
+1770,39149,Vitinho,Attacker,Brazil
+1770,73963,Igor Cássio,Attacker,Brazil
+1770,73964,Rhuan,Attacker,Brazil
+1770,117723,Eduardo Barroca,None,Brazil
+1771,1230,Fábio,Goalkeeper,Brazil
+1771,1231,Rafael,Goalkeeper,Brazil
+1771,12869,Vinicius Melo,Goalkeeper,Brazil
+1771,44235,Vitor Eudes,Goalkeeper,Brazil
+1771,118009,Marlon,Goalkeeper,Brazil
+1771,1233,Dedé,Defender,Brazil
+1771,1234,Léo,Defender,Brazil
+1771,1240,Egídio,Defender,Brazil
+1771,1241,Edílson,Defender,Brazil
+1771,1266,Fabrício Bruno,Defender,Brazil
+1771,1307,Dodô,Defender,Brazil
+1771,7551,Luis Orejuela,Defender,Colombia
+1771,77470,Cacá,Defender,Brazil
+1771,97509,Rafael Santos,Defender,Brazil
+1771,115629,Weverton,Defender,Brazil
+1771,122354,Jonathan Monteiro,Defender,Brazil
+1771,128056,EDU,Defender,Brazil
+1771,1083,Jádson,Midfielder,Brazil
+1771,1219,Ezequiel,Midfielder,Brazil
+1771,1243,Henrique,Midfielder,Brazil
+1771,1245,Ariel Cabral,Midfielder,Argentina
+1771,1247,Robinho,Midfielder,Brazil
+1771,1249,Thiago Neves,Midfielder,Brazil
+1771,1251,David,Midfielder,Brazil
+1771,1444,Rodriguinho,Midfielder,Brazil
+1771,81440,Éderson,Midfielder,Brazil
+1771,97511,Michel,Midfielder,Brazil
+1771,99343,Jadson,Midfielder,Brazil
+1771,119594,Mauricio,Midfielder,Brazil
+1771,122355,Marco Antônio,Midfielder,Brazil
+1771,1258,Sassá,Attacker,Brazil
+1771,1259,Fred,Attacker,Brazil
+1771,1455,Marquinhos Gabriel,Attacker,Brazil
+1771,16154,Pedro Rocha,Attacker,Brazil
+1771,45354,Joël Tagueu,Attacker,Cameroon
+1771,113933,Vinícius Popó,Attacker,Brazil
+1771,122353,Adriano,Attacker,Brazil
+1771,129463,Welinton,Attacker,Brazil
+1771,11159,Abel Braga,None,Brazil
+1771,11207,Sidnei Lobo,None,Brazil
+1771,122358,Romulo,None,Brazil
+1771,125809,Ricardo Alves Resende,None,Brazil
+1772,1260,Elias,Goalkeeper,Brazil
+1772,1261,Tiepo,Goalkeeper,Brazil
+1772,1631,João Ricardo,Goalkeeper,Brazil
+1772,13642,Vágner,Goalkeeper,Brazil
+1772,1068,Gum,Defender,Brazil
+1772,1265,Hiago,Defender,Brazil
+1772,1271,Douglas,Defender,Brazil
+1772,1272,Bruno Pacheco,Defender,Brazil
+1772,1273,Eduardo,Defender,Brazil
+1772,1699,Rafael Pereira,Defender,Brazil
+1772,12564,Renato,Defender,Brazil
+1772,13412,Caíque Sá,Defender,Brazil
+1772,13652,Roberto,Defender,Brazil
+1772,30050,Maurício Ramos,Defender,Brazil
+1772,111023,Tharlis,Defender,Brazil
+1772,1279,Amaral,Midfielder,Brazil
+1772,1284,Elicarlos,Midfielder,Brazil
+1772,1285,Márcio Araújo,Midfielder,Brazil
+1772,1321,Gabriel Calabres,Midfielder,Brazil
+1772,1581,Camilo,Midfielder,Brazil
+1772,15453,Gustavo Campanharo,Midfielder,Brazil
+1772,23381,Diego Torres,Midfielder,Argentina
+1772,23989,Yann,Midfielder,Brazil
+1772,79819,Ronei,Midfielder,Brazil
+1772,81009,Augusto,Midfielder,Brazil
+1772,115591,Régis,Midfielder,Brazil
+1772,115592,Vini Locatelli,Midfielder,Brazil
+1772,1323,Arthur Gomes,Attacker,Brazil
+1772,1658,Aylon,Attacker,Brazil
+1772,12837,Renato Kayzer,Attacker,Brazil
+1772,13692,Dalberto,Attacker,Brazil
+1772,18621,Bryan,Attacker,Brazil
+1772,30193,Henrique Almeida,Attacker,Brazil
+1772,39954,Everaldo,Attacker,Brazil
+1772,45185,Victor Andrade,Attacker,Brazil
+1772,94910,Thiago Santos,Attacker,Brazil
+1772,13713,Marquinhos Santos,None,Brazil
+1772,115323,Emerson Cris,None,Brazil
+1775,1297,Vladimir,Goalkeeper,Brazil
+1775,12534,Léo Lopes,Goalkeeper,Brazil
+1775,12539,Cláudio Vitor,Goalkeeper,Brazil
+1775,13329,Lucas Frigeri,Goalkeeper,Brazil
+1775,19073,Gledson,Goalkeeper,Brazil
+1775,1075,Léo Morais,Defender,Brazil
+1775,12548,Betão,Defender,Brazil
+1775,12565,Matheus Barbosa,Defender,Brazil
+1775,12566,Gustavo,Defender,Brazil
+1775,13062,Marquinhos Silva,Defender,Brazil
+1775,13336,Paulinho Oliveira,Defender,Brazil
+1775,13407,Alex Silva,Defender,Brazil
+1775,18211,Igor Fernandes,Defender,Brazil
+1775,61426,Ricardo,Defender,Brazil
+1775,80802,Eduardo Kunde,Defender,Brazil
+1775,115560,Nuno,Defender,Brazil
+1775,117734,Luanderson,Defender,Brazil
+1775,130045,Zé Marcos,Defender,Brazil
+1775,12575,Luan Pereira,Midfielder,Brazil
+1775,12581,Pedro Castro,Midfielder,Brazil
+1775,12583,Marcinho,Midfielder,Brazil
+1775,12811,João Paulo,Midfielder,Brazil
+1775,13107,Gustavo Ferrareis,Midfielder,Brazil
+1775,18552,Iury,Midfielder,Brazil
+1775,22168,Jonny Mosquera,Midfielder,Colombia
+1775,29842,Gegê,Midfielder,Brazil
+1775,48609,Julinho,Midfielder,Brazil
+1775,72756,Richard Franco,Midfielder,Paraguay
+1775,72762,Douglas,Midfielder,Brazil
+1775,74729,Caio Paulista,Midfielder,Brazil
+1775,115595,Wesley,Midfielder,Brazil
+1775,115596,Falcão,Midfielder,Brazil
+1775,115597,Dudu,Midfielder,Brazil
+1775,1225,Brenner,Attacker,Brazil
+1775,1459,Matheus Ferreira,Attacker,Brazil
+1775,12585,Lourenço,Attacker,Brazil
+1775,18162,Daniel Amorim,Attacker,Brazil
+1775,18541,Gabriel Lima,Attacker,Brazil
+1775,18658,Bruno Savio,Attacker,Brazil
+1775,30190,Jones Carioca,Attacker,Brazil
+1775,114380,Feliciano Brizuela,Attacker,Paraguay
+1775,128784,Jonathan,Attacker,Brazil
+1775,11183,Alberto Valentim,None,Brazil
+1776,1331,Lucas Perri,Goalkeeper,Brazil
+1776,1333,Jean,Goalkeeper,Brazil
+1776,39920,Tiago Volpi,Goalkeeper,Brazil
+1776,98908,Lucas,Goalkeeper,Brazil
+1776,103134,Dênis,Goalkeeper,Brazil
+1776,123,Juanfran,Defender,Spain
+1776,1172,Tchê Tchê,Defender,Brazil
+1776,1338,Robert Arboleda,Defender,Ecuador
+1776,1339,Bruno Alves,Defender,Brazil
+1776,1340,Reinaldo,Defender,Brazil
+1776,1341,Anderson Martins,Defender,Brazil
+1776,1802,Bruno Peres,Defender,Brazil
+1776,3223,Dani Alves,Defender,Brazil
+1776,12616,Igor Vinícius,Defender,Brazil
+1776,73058,Luan,Defender,Brazil
+1776,118161,Walce Costa,Defender,Brazil
+1776,129392,Gabriel,Defender,Brazil
+1776,1079,Marcos Calazans,Midfielder,Brazil
+1776,1255,Raniel,Midfielder,Brazil
+1776,1313,Vitor,Midfielder,Brazil
+1776,1349,Jucilei,Midfielder,Brazil
+1776,1355,Húdson,Midfielder,Brazil
+1776,1357,Helio Junio,Midfielder,Brazil
+1776,1358,Éverton,Midfielder,Brazil
+1776,1386,Léo,Midfielder,Brazil
+1776,1678,Pablo Felipe,Midfielder,Brazil
+1776,21768,Hernanes,Midfielder,Brazil
+1776,46134,João Rojas,Midfielder,Ecuador
+1776,82534,Igor Gomes,Midfielder,Brazil
+1776,113415,Jonas,Midfielder,Brazil
+1776,129390,Diego,Midfielder,Brazil
+1776,1362,Liziero,Attacker,Brazil
+1776,21922,Alexandre Pato,Attacker,Brazil
+1776,72764,Gonzalo Carneiro Méndez,Attacker,Uruguay
+1776,97085,Antony,Attacker,Brazil
+1776,103135,Biro Biro,Attacker,Brazil
+1776,129391,Fabinho,Attacker,Brazil
+1776,11165,Fernando Diniz,None,Brazil
+1777,1365,Anderson,Goalkeeper,Brazil
+1777,1366,Douglas,Goalkeeper,Brazil
+1777,1395,Fernando Augusto,Goalkeeper,Brazil
+1777,111297,Fabrício,Goalkeeper,Brazil
+1777,1175,Juninho,Defender,Brazil
+1777,1207,Moisés,Defender,Brazil
+1777,1236,Ezequiel,Defender,Brazil
+1777,1368,Lucas Fonseca,Defender,Brazil
+1777,1372,Nino Paraíba,Defender,Brazil
+1777,1412,Ernando,Defender,Brazil
+1777,1640,Giovanni,Defender,Brazil
+1777,1669,Wanderson,Defender,Brazil
+1777,13338,Xandão,Defender,Brazil
+1777,19262,Mayk,Defender,Brazil
+1777,97470,Ignácio,Defender,Brazil
+1777,103136,Douglas Borel,Defender,Brazil
+1777,111298,Jaques,Defender,Brazil
+1777,1185,Alejandro Guerra,Midfielder,Venezuela
+1777,1348,Shaylon,Midfielder,Brazil
+1777,1378,Marco Antônio,Midfielder,Brazil
+1777,1382,Elton,Midfielder,Brazil
+1777,1384,Gregore,Midfielder,Brazil
+1777,1385,Élber,Midfielder,Brazil
+1777,1387,João Pedro,Midfielder,Brazil
+1777,1389,Flávio,Midfielder,Brazil
+1777,1550,Ronaldo,Midfielder,Brazil
+1777,13262,Fernando Madeiros,Midfielder,Brazil
+1777,43965,Willean Lepo,Midfielder,Brazil
+1777,103884,Caíque,Midfielder,Brazil
+1777,111299,Max,Midfielder,Brazil
+1777,111300,Caio Mello,Midfielder,Brazil
+1777,111301,Dimitri,Midfielder,Brazil
+1777,121854,Edson,Midfielder,Brazil
+1777,1288,Arthur Caíke,Attacker,Brazil
+1777,1394,Felipinho,Attacker,Brazil
+1777,1424,Rogério,Attacker,Brazil
+1777,1594,Lucca,Attacker,Brazil
+1777,30630,Fernandão,Attacker,Brazil
+1777,38734,Gilberto,Attacker,Brazil
+1777,43964,Fernandinho,Attacker,Brazil
+1777,44987,Geovane Itinga,Attacker,Brazil
+1777,111302,Uéslei Júnior,Attacker,Brazil
+1777,117611,Gabriel Esteves,Attacker,Brazil
+1777,118005,Artur,Attacker,Brazil
+1777,11184,Roger Machado,None,Brazil
+1779,1431,Cássio,Goalkeeper,Brazil
+1779,1432,Walter,Goalkeeper,Brazil
+1779,1433,Caíque,Goalkeeper,Brazil
+1779,82781,Filipe,Goalkeeper,Brazil
+1779,1235,Manoel,Defender,Brazil
+1779,1434,Fágner,Defender,Brazil
+1779,1441,Marllon,Defender,Brazil
+1779,3136,Míchel,Defender,Brazil
+1779,8589,Danilo Avelar,Defender,Brazil
+1779,11224,Carlos,Defender,Brazil
+1779,21854,Gil,Defender,Brazil
+1779,28755,Bruno Méndez,Defender,Uruguay
+1779,117822,Lucas Piton,Defender,Brazil
+1779,1078,Junior Sornoza,Midfielder,Ecuador
+1779,1146,Ramiro,Midfielder,Brazil
+1779,1383,Régis,Midfielder,Brazil
+1779,1443,Jádson,Midfielder,Brazil
+1779,1445,Gabriel,Midfielder,Brazil
+1779,1448,Pedrinho,Midfielder,Brazil
+1779,1449,Clayson,Midfielder,Brazil
+1779,1450,Renê Júnior,Midfielder,Brazil
+1779,1452,Mateus Vital,Midfielder,Brazil
+1779,1453,Ralf,Midfielder,Brazil
+1779,13604,Everaldo,Midfielder,Brazil
+1779,21420,Júnior Urso,Midfielder,Brazil
+1779,23812,Ángelo Araos,Midfielder,Chile
+1779,48589,Matheus Jesus,Midfielder,Brazil
+1779,12705,Gustavo,Attacker,Brazil
+1779,15957,Vágner Love,Attacker,Brazil
+1779,39432,Mauro Boselli,Attacker,Argentina
+1779,61015,Janderson,Attacker,Brazil
+1779,11160,Fábio Carille,None,Brazil
+1779,118086,João Victor,None,Brazil
+1780,1332,Sidão,Goalkeeper,Brazil
+1780,1463,João Pedro,Goalkeeper,Brazil
+1780,1494,Fernando Miguel,Goalkeeper,Brazil
+1780,117821,Alexander,Goalkeeper,Brazil
+1780,128746,Lucão,Goalkeeper,Brazil
+1780,1403,Oswaldo Henríquez,Defender,Colombia
+1780,1411,Cláudio Winck,Defender,Brazil
+1780,1464,Henrique,Defender,Brazil
+1780,1469,Breno,Defender,Brazil
+1780,1471,Ramon,Defender,Brazil
+1780,1472,Ricardo,Defender,Brazil
+1780,1477,Werley,Defender,Brazil
+1780,1904,Leandro Castán,Defender,Brazil
+1780,11228,Miranda,Defender,Brazil
+1780,11229,Rodrigo Fernandes,Defender,Brazil
+1780,12621,Danilo Barcelos,Defender,Brazil
+1780,103139,Raúl Cáceres,Defender,Paraguay
+1780,118815,Vanderlei Luxemburgo,Defender,Brazil
+1780,119755,Ulisses,Defender,Brazil
+1780,1417,Fellipe Bastos,Midfielder,Brazil
+1780,1478,Andrey,Midfielder,Brazil
+1780,1710,Raul,Midfielder,Brazil
+1780,15883,Bruno César,Midfielder,Brazil
+1780,18278,Marcos Júnior,Midfielder,Brazil
+1780,45086,Rafael França,Midfielder,Brazil
+1780,49509,Dudu,Midfielder,Brazil
+1780,95983,Bruno Ritter,Midfielder,Brazil
+1780,103624,Felipe Ferreira,Midfielder,Brazil
+1780,113932,Marquinho,Midfielder,Brazil
+1780,118010,Caio Lopes,Midfielder,Brazil
+1780,129365,Gabriel Chaves,Midfielder,Brazil
+1780,129367,Bruno Gomes,Midfielder,Brazil
+1780,1091,Richard,Attacker,Brazil
+1780,1124,Clayton,Attacker,Brazil
+1780,1364,Valdívia,Attacker,Brazil
+1780,1465,Yago Pikachu,Attacker,Brazil
+1780,1593,Rossi,Attacker,Brazil
+1780,1690,Ribamar,Attacker,Brazil
+1780,11230,Moresche,Attacker,Brazil
+1780,32181,Vinícius Araújo,Attacker,Brazil
+1780,73233,Marrony,Attacker,Brazil
+1780,114381,Tiago Reis,Attacker,Brazil
+1780,119383,Talles Magno,Attacker,Brazil
+1780,123255,Vinícius Paiva,Attacker,Brazil
+1780,129366,Kaio Magno,Attacker,Brazil
+1780,117823,Marcos Valadares,None,Brazil
+1780,128747,Alexandre Melo,None,Brazil
+1783,1528,Gabriel Batista,Goalkeeper,Brazil
+1783,1529,Diego Alves,Goalkeeper,Brazil
+1783,1530,César,Goalkeeper,Brazil
+1783,11242,Yago,Goalkeeper,Brazil
+1783,117,Filipe Luis,Defender,Brazil
+1783,348,Rafinha,Defender,Brazil
+1783,1343,Rodrigo Caio,Defender,Brazil
+1783,1533,Juan,Defender,Brazil
+1783,1536,Rhodolfo,Defender,Brazil
+1783,1537,Thuler,Defender,Brazil
+1783,7647,Pablo Marí,Defender,Spain
+1783,45035,Dantas,Defender,Brazil
+1783,76893,Rafael Santos,Defender,Brazil
+1783,119621,João Lucas,Defender,Brazil
+1783,1539,Rodinei,Midfielder,Brazil
+1783,1540,Willian Arão,Midfielder,Brazil
+1783,1544,Diego,Midfielder,Brazil
+1783,1546,Renê,Midfielder,Brazil
+1783,1548,Everton Ribeiro,Midfielder,Brazil
+1783,1550,Ronaldo,Midfielder,Brazil
+1783,1815,Gerson,Midfielder,Brazil
+1783,46059,Robert Piris,Midfielder,Paraguay
+1783,98856,João Pedro Pepê,Midfielder,Brazil
+1783,103153,Hugo Moura,Midfielder,Brazil
+1783,115078,Vinicius Souza,Midfielder,Brazil
+1783,115185,Yuri,Midfielder,Brazil
+1783,123350,Reinier,Midfielder,Brazil
+1783,1244,Giorgian De Arrascaeta,Attacker,Uruguay
+1783,1317,Bruno Henrique,Attacker,Brazil
+1783,1327,Gabriel Barbosa,Attacker,Brazil
+1783,1555,Orlando Berrío,Attacker,Colombia
+1783,1557,Lincoln,Attacker,Brazil
+1783,15795,Vitinho,Attacker,Brazil
+1783,103154,Vitor Gabriel,Attacker,Brazil
+1783,110878,Lucas Silva,Attacker,Brazil
+1783,15897,Jorge Jesus,None,Portugal
+1783,115186,Leomir,None,Brazil
+1837,1232,Lucas França,Goalkeeper,Brazil
+1837,1595,Richard,Goalkeeper,Brazil
+1837,18761,Diogo Silva,Goalkeeper,Brazil
+1837,45089,Matheus Cabral,Goalkeeper,Brazil
+1837,1107,Samuel Xavier,Defender,Brazil
+1837,1673,Thiago Carleto,Defender,Brazil
+1837,1698,Valdo,Defender,Brazil
+1837,1700,Luiz Otávio,Defender,Brazil
+1837,1708,Tiago Alves,Defender,Brazil
+1837,13073,João Lucas,Defender,Brazil
+1837,13405,Brock,Defender,Brazil
+1837,30396,Auremir,Defender,Brazil
+1837,43966,Charles,Defender,Brazil
+1837,103162,Cristovam,Defender,Brazil
+1837,1155,Vinícius Moreira,Midfielder,Brazil
+1837,1484,Thiago Galhardo,Midfielder,Brazil
+1837,1576,Fabinho,Midfielder,Brazil
+1837,1712,Ricardinho,Midfielder,Brazil
+1837,1713,Pedro Ken,Midfielder,Brazil
+1837,13851,Fernando Sobral,Midfielder,Brazil
+1837,13858,William Oliveira,Midfielder,Brazil
+1837,44991,Matheus Lira,Midfielder,Brazil
+1837,48747,Felipe Silva,Midfielder,Brazil
+1837,103163,Chico,Midfielder,Brazil
+1837,128785,Rafael Carvalheira,Midfielder,Brazil
+1837,131129,Jadson,Midfielder,Brazil
+1837,1228,Leandro Carvalho,Attacker,Brazil
+1837,1691,Bergson,Attacker,Brazil
+1837,1727,Wescley,Attacker,Brazil
+1837,1729,Romário,Attacker,Brazil
+1837,12647,Felippe Cardoso,Attacker,Brazil
+1837,12912,João Paulo,Attacker,Brazil
+1837,15462,Juninho Quixadá,Attacker,Brazil
+1837,39605,Mateus Gonçalves,Attacker,Brazil
+1837,103164,Rick,Attacker,Brazil
+1837,11142,Enderson Moreira,None,Brazil
+3984,1665,Felipe Alves,Goalkeeper,Brazil
+3984,12661,Marcelo Boeck,Goalkeeper,Brazil
+3984,12662,Matheus Inácio,Goalkeeper,Brazil
+3984,12663,Matheus Jesús,Goalkeeper,Brazil
+3984,12664,Max Walef,Goalkeeper,Brazil
+3984,1369,Jackson,Defender,Brazil
+3984,1468,Paulão,Defender,Brazil
+3984,1570,Gabriel Dias,Defender,Brazil
+3984,1642,Carlinhos,Defender,Brazil
+3984,11180,Nathan Ribeiro,Defender,Brazil
+3984,12667,Adalberto,Defender,Brazil
+3984,12669,Roger Carvalho,Defender,Brazil
+3984,12670,Tinga,Defender,Brazil
+3984,32206,Juan Quintero,Defender,Colombia
+3984,114675,Diguinho,Defender,Brazil
+3984,1345,Felipe Araruna,Midfielder,Brazil
+3984,1446,Paulo Roberto,Midfielder,Brazil
+3984,1717,Juninho,Midfielder,Brazil
+3984,10858,Felipe Pires,Midfielder,Brazil
+3984,12676,Felipe,Midfielder,Brazil
+3984,12678,Bruno Melo,Midfielder,Brazil
+3984,12689,Derley,Midfielder,Brazil
+3984,12691,Edinho,Midfielder,Brazil
+3984,12703,Marlon,Midfielder,Brazil
+3984,18531,Adenilson,Midfielder,Brazil
+3984,22644,Mariano Vázquez,Midfielder,Argentina
+3984,28423,Santiago Romero,Midfielder,Uruguay
+3984,45417,Nenê Bonilha,Midfielder,Brazil
+3984,112983,Gustavo Coutinho,Midfielder,Brazil
+3984,114885,Tião,Midfielder,Brazil
+3984,1089,Matheus Alessandro,Attacker,Brazil
+3984,1229,Kieza,Attacker,Brazil
+3984,1287,Wellington Paulista,Attacker,Brazil
+3984,1689,Éderson,Attacker,Brazil
+3984,12654,André Luis,Attacker,Brazil
+3984,12716,Osvaldo,Attacker,Brazil
+3984,18742,Romarinho,Attacker,Brazil
+3984,43070,Matheus Vargas,Attacker,Brazil
+3984,12718,Rogério Ceni,None,Brazil
+3984,125939,Marconne Montenegro,None,Brazil
+4244,12985,João Carlos,Goalkeeper,Brazil
+4244,13323,Cajuru,Goalkeeper,Brazil
+4244,13717,Fabrício,Goalkeeper,Brazil
+4244,79608,Jordi,Goalkeeper,Brazil
+4244,113680,Igo,Goalkeeper,Brazil
+4244,1269,Apodi,Defender,Brazil
+4244,1404,Ronaldo Alves,Defender,Brazil
+4244,1704,Naldo,Defender,Brazil
+4244,13332,Dawhan,Defender,Brazil
+4244,13334,Celsinho,Defender,Brazil
+4244,13341,Rony,Defender,Brazil
+4244,13343,Vital,Defender,Brazil
+4244,13903,Alan Costa,Defender,Brazil
+4244,13982,Carlinhos,Defender,Brazil
+4244,103377,Luciano Castán,Defender,Brazil
+4244,103378,Pedro Rosa,Defender,Brazil
+4244,118363,Warley,Defender,Brazil
+4244,125941,Euller,Defender,Brazil
+4244,1388,Nilton,Midfielder,Brazil
+4244,12624,João Vitor,Midfielder,Brazil
+4244,13347,Didira,Midfielder,Brazil
+4244,13348,Rafinha,Midfielder,Brazil
+4244,13444,Maranhão,Midfielder,Brazil
+4244,13784,Amaral,Midfielder,Brazil
+4244,45341,Jean Cleber,Midfielder,Brazil
+4244,104244,Lucas Dias,Midfielder,Brazil
+4244,110927,Jonathan Gómez,Midfielder,Argentina
+4244,115569,Madson,Midfielder,Brazil
+4244,129457,Matheus Prado,Midfielder,Brazil
+4244,13690,Alisson Safira,Attacker,Brazil
+4244,13932,Alecsandro,Attacker,Brazil
+4244,18661,Bruno Alves,Attacker,Brazil
+4244,56380,Ricardo Bueno,Attacker,Brazil
+4244,103382,Patrick Fabiano,Attacker,Brazil
+4244,110794,Rodolfo Gamarra,Attacker,Paraguay
+4244,111605,Héctor Bustamante,Attacker,Paraguay
+4244,111708,Gerson Júnior,Attacker,Brazil
+4244,117591,Pedro,Attacker,Brazil
+4244,60881,Argélico Fucks,None,Brazil
+4250,12929,Tadeu,Goalkeeper,Brazil
+4250,13390,Matheus,Goalkeeper,Brazil
+4250,13394,Marcelo Rangel,Goalkeeper,Brazil
+4250,13396,Marcos,Goalkeeper,Brazil
+4250,1206,Renatinho,Defender,Brazil
+4250,1208,Yago,Defender,Brazil
+4250,1242,Marcelo Hermes,Defender,Brazil
+4250,12753,Kevin,Defender,Brazil
+4250,13242,Geovane,Defender,Brazil
+4250,13399,Fábio Sanches,Defender,Brazil
+4250,13419,David Duarte,Defender,Brazil
+4250,23873,Rafael Vaz,Defender,Brazil
+4250,30820,Paulo Ricardo,Defender,Brazil
+4250,45168,Lucão,Defender,Brazil
+4250,118013,Iago,Defender,Brazil
+4250,127150,Heron,Defender,Brazil
+4250,127156,Breno,Defender,Brazil
+4250,1278,Alan Ruschel,Midfielder,Brazil
+4250,1309,Daniel Guedes,Midfielder,Brazil
+4250,1416,Marlone,Midfielder,Brazil
+4250,1485,Giovanni Augusto,Midfielder,Brazil
+4250,1510,Yago Felipe,Midfielder,Brazil
+4250,13424,Léo Sena,Midfielder,Brazil
+4250,13427,Jefferson,Midfielder,Brazil
+4250,13428,Thalles,Midfielder,Brazil
+4250,13445,Rafinha,Midfielder,Brazil
+4250,13452,Gilberto Júnior,Midfielder,Brazil
+4250,13545,Kaio Nunes,Midfielder,Brazil
+4250,20050,Jean Carlos,Midfielder,Brazil
+4250,117985,Giovanny,Midfielder,Brazil
+4250,118014,Flávio,Midfielder,Brazil
+4250,124790,Yago Rocha,Midfielder,Brazil
+4250,1657,Rafael Moura,Attacker,Brazil
+4250,11200,Papagaio,Attacker,Brazil
+4250,13378,Walter,Attacker,Brazil
+4250,13455,Michael,Attacker,Brazil
+4250,13460,Ricardo,Attacker,Brazil
+4250,13462,Miguel Figueira,Attacker,Brazil
+4250,28386,Leandro Barcia,Attacker,Uruguay
+4250,118015,Vinícius,Attacker,Brazil
+4250,125846,Alisson,Attacker,Brazil
+4250,13469,Ney Franco,None,Brazil
+4250,125154,Robson Gomes,None,Brazil
+6684,1560,Danilo Fernandes,Goalkeeper,Brazil
+6684,1561,Keiller,Goalkeeper,Brazil
+6684,1562,Marcelo Lomba,Goalkeeper,Brazil
+6684,1563,Daniel,Goalkeeper,Brazil
+6684,118029,Carlos Miguel,Goalkeeper,Brazil
+6684,1179,Emerson Santos,Defender,Brazil
+6684,1334,Bruno,Defender,Brazil
+6684,1564,Uendel,Defender,Brazil
+6684,1565,Klaus,Defender,Brazil
+6684,1567,Víctor Cuesta,Defender,Argentina
+6684,1572,Rodrigo Moledo,Defender,Brazil
+6684,1574,Zeca,Defender,Brazil
+6684,115222,Bruno Fuchs,Defender,Brazil
+6684,115223,Heitor,Defender,Brazil
+6684,115224,Roberto,Defender,Brazil
+6684,121911,Erik,Defender,Brazil
+6684,1122,Matheus Galdezani,Midfielder,Brazil
+6684,1211,Rodrigo Lindoso,Midfielder,Brazil
+6684,1252,Bruno Silva,Midfielder,Brazil
+6684,1575,Rodrigo Dourado,Midfielder,Brazil
+6684,1578,Andrés D'Alessandro,Midfielder,Argentina
+6684,1580,Edenilson,Midfielder,Brazil
+6684,1582,Patrick,Midfielder,Brazil
+6684,1584,Dudu,Midfielder,Brazil
+6684,15449,Natanael Pimienta,Midfielder,Brazil
+6684,61198,Rithely,Midfielder,Brazil
+6684,61369,Nonato,Midfielder,Brazil
+6684,121909,José Aldo,Midfielder,Brazil
+6684,123264,Lucas Ramos,Midfielder,Brazil
+6684,1256,Rafael Sóbis,Attacker,Brazil
+6684,1363,Santiago Tréllez,Attacker,Colombia
+6684,1519,Neilton,Attacker,Brazil
+6684,1553,Paolo Guerrero,Attacker,Peru
+6684,1588,Nicolás López,Attacker,Uruguay
+6684,1590,William Pottker,Attacker,Brazil
+6684,1592,Wellington Silva,Attacker,Brazil
+6684,13934,Guilherme Parede,Attacker,Brazil
+6684,45887,Martín Sarrafiore,Attacker,Argentina
+6684,111278,Pedro Lucas,Attacker,Brazil
+6684,123265,João Cardoso,Attacker,Brazil
+6684,11147,Odair Hellmann,None,Brazil
+6684,121910,Gabriel,None,Brazil
+6685,1296,João Paulo,Goalkeeper,Brazil
+6685,1298,Vanderlei,Goalkeeper,Brazil
+6685,1299,John,Goalkeeper,Brazil
+6685,1695,Everson,Goalkeeper,Brazil
+6685,1301,Gustavo Henrique,Defender,Brazil
+6685,1302,Victor Ferraz,Defender,Brazil
+6685,1304,Lucas Veríssimo,Defender,Brazil
+6685,1305,Luis Felipe,Defender,Brazil
+6685,1308,Diego Pituca,Defender,Brazil
+6685,1532,Pará,Defender,Brazil
+6685,1706,Felipe Jonatan,Defender,Brazil
+6685,8754,Jorge,Defender,Brazil
+6685,10843,Venuto,Defender,Brazil
+6685,22467,Felipe Aguilar,Defender,Colombia
+6685,39513,Matheus Ribeiro,Defender,Brazil
+6685,111820,Wagner,Defender,Brazil
+6685,123353,Cadu,Defender,Brazil
+6685,1086,Luan Peres,Midfielder,Brazil
+6685,1314,Jean Mota,Midfielder,Brazil
+6685,1318,Alison,Midfielder,Brazil
+6685,1320,Guilherme,Midfielder,Brazil
+6685,1346,Christian Cueva,Midfielder,Peru
+6685,3167,Carlos Sánchez,Midfielder,Uruguay
+6685,11646,Evandro,Midfielder,Brazil
+6685,18608,Jobson,Midfielder,Brazil
+6685,23333,Yeferson Soteldo,Midfielder,Venezuela
+6685,107198,Tailson,Midfielder,Brazil
+6685,107199,Sandry,Midfielder,Brazil
+6685,121853,Ivonei,Midfielder,Brazil
+6685,1325,Yuri Alberto,Attacker,Brazil
+6685,1326,Eduardo Sasha,Attacker,Brazil
+6685,3520,Bryan Ruiz,Attacker,Costa Rica
+6685,16184,Derlis González,Attacker,Paraguay
+6685,21600,Marinho,Attacker,Brazil
+6685,39666,Fernando Uribe,Attacker,Colombia
+6685,91310,Kaio Jorge,Attacker,Brazil
+6685,121852,Allan Mota,Attacker,Brazil
+6685,33636,Jorge Sampaoli,None,Argentina
+6685,119620,Alexandre,None,Brazil
